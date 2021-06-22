@@ -4,7 +4,7 @@ let movieDb = [
     title: "Rush",
     info: {
       directors: ["Ron Howard"],
-      release_date: "2013-09-02T00:00:00Z",
+      release_date: "09-02-2013",
       rating: 8.3,
       genres: ["Action", "Biography", "Drama", "Sport"],
       image_url:
@@ -22,7 +22,7 @@ let movieDb = [
     title: "This Is the End",
     info: {
       directors: ["Evan Goldberg", "Seth Rogen"],
-      release_date: "2013-06-03T00:00:00Z",
+      release_date: "03-06-2013",
       rating: 7.2,
       genres: ["Comedy", "Fantasy"],
       image_url:
@@ -39,7 +39,7 @@ let movieDb = [
     title: "X-Men: Days of Future Past",
     info: {
       directors: ["Bryan Singer"],
-      release_date: "2014-05-21T00:00:00Z",
+      release_date: "21-05-2014",
       genres: ["Action", "Adventure", "Fantasy", "Sci-Fi"],
       image_url:
         "https://m.media-amazon.com/images/M/MV5BZGIzNWYzN2YtMjcwYS00YjQ3LWI2NjMtOTNiYTUyYjE2MGNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
@@ -54,7 +54,7 @@ let movieDb = [
     title: "Transformers: Age of Extinction",
     info: {
       directors: ["Michael Bay"],
-      release_date: "2014-06-25T00:00:00Z",
+      release_date: "25-06-2014",
       genres: ["Action", "Adventure", "Sci-Fi"],
       image_url:
         "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Transformers_Age_of_Extinction_Poster.jpeg/220px-Transformers_Age_of_Extinction_Poster.jpeg",
@@ -69,7 +69,7 @@ let movieDb = [
     title: "Now You See Me",
     info: {
       directors: ["Louis Leterrier"],
-      release_date: "2013-05-21T00:00:00Z",
+      release_date: "21-05-2013",
       rating: 7.3,
       genres: ["Crime", "Mystery", "Thriller"],
       image_url:
@@ -86,7 +86,7 @@ let movieDb = [
     title: "Gravity",
     info: {
       directors: ["Alfonso Cuaron"],
-      release_date: "2013-08-28T00:00:00Z",
+      release_date: "28-08-2013",
       rating: 8.2,
       genres: ["Drama", "Sci-Fi", "Thriller"],
       image_url:
@@ -103,7 +103,7 @@ let movieDb = [
     title: "We're the Millers",
     info: {
       directors: ["Rawson Marshall Thurber"],
-      release_date: "2013-08-03T00:00:00Z",
+      release_date: "03-08-2013",
       rating: 7.2,
       genres: ["Comedy", "Crime"],
       image_url:
@@ -120,7 +120,7 @@ let movieDb = [
     title: "Riddick",
     info: {
       directors: ["David Twohy"],
-      release_date: "2013-09-04T00:00:00Z",
+      release_date: "04-09-2013",
       rating: 6.8,
       genres: ["Action", "Sci-Fi", "Thriller"],
       image_url:
@@ -137,7 +137,7 @@ let movieDb = [
     title: "The Family",
     info: {
       directors: ["Luc Besson"],
-      release_date: "2013-09-10T00:00:00Z",
+      release_date: "10-09-2013",
       rating: 6.5,
       genres: ["Action", "Comedy", "Crime"],
       image_url:
@@ -154,7 +154,7 @@ let movieDb = [
     title: "Star Trek Into Darkness",
     info: {
       directors: ["J.J. Abrams"],
-      release_date: "2013-05-02T00:00:00Z",
+      release_date: "02-05-2013",
       rating: 7.9,
       genres: ["Action", "Adventure", "Sci-Fi"],
       image_url: "https://flxt.tmsimg.com/assets/p9463958_p_v10_ae.jpg",
